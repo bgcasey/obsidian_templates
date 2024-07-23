@@ -1,4 +1,4 @@
-Various markdown note templates for [obsidian](https://obsidian.md/). 
+This repo contains various markdown note templates for [Obsidian](https://obsidian.md/). 
 
 The templates require the following obsidian community plugins:
 - Tasks
